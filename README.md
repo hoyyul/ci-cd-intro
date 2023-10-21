@@ -8,7 +8,7 @@
 
 ### Course attachement
 
-> This repository is best consumed while or after following the course attachment 👇
+> This repository is best consumed while or after following the course attachment 👇！
 
 <a href="https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY" target="_blank"><img src="./images/course_banner.png" /></a>
 
